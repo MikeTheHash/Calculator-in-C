@@ -3,7 +3,7 @@
 // By MikeTheHash
 int func(void){
 	printf("\n::::::::::::::::::::::::::::::::");
-	printf("\nSelect a type of calculation \n1 - Addition; \n2 - Subtraction; \n3 - Moltiplication; \n4 - Division; \n");
+	printf("\nSelect a type of calculation \n1 - Addition; \n2 - Subtraction; \n3 - Multiplication; \n4 - Division; \n");
 	int input;
 	printf(">");
 	scanf("%i", &input);
